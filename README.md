@@ -1,8 +1,6 @@
 # ai-assisted-coding-project-enrollment-manager
 
 # Steps to setup streamlit
-# checking successful cloning
-
 ## Mac
 
 python3 -m venv .venv
